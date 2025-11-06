@@ -1,4 +1,4 @@
-def add(x , y):
-    return x + y
+def add_variables(a , b):
+    return a + b
 
-print(add(10,20))
+print(add_variables(1,2))
